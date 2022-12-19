@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Languages on Hayaan Rizvi</title>
+    <link>/languages/</link>
+    <description>Recent content in Languages on Hayaan Rizvi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>/languages/english/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/languages/english/</guid>
+      <description>Native/Bilingual Proficiency</description>
+    </item>
+    
+    <item>
+      <title>Urdu</title>
+      <link>/languages/urdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/languages/urdu/</guid>
+      <description>Native/Bilingual Proficiency</description>
+    </item>
+    
+    <item>
+      <title>Hindi</title>
+      <link>/languages/hindi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/languages/hindi/</guid>
+      <description>Native/Bilingual Proficiency</description>
+    </item>
+    
+    <item>
+      <title>Arabic</title>
+      <link>/languages/arabic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/languages/arabic/</guid>
+      <description>Limited Working Proficiency</description>
+    </item>
+    
+    <item>
+      <title>Spanish</title>
+      <link>/languages/spanish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/languages/spanish/</guid>
+      <description>Limited Working Proficiency</description>
+    </item>
+    
+  </channel>
+</rss>
