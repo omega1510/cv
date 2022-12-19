@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Hayaan Rizvi</title>
-    <link>/tags/</link>
+    <link>https://omega1510.github.io/tags/</link>
     <description>Recent content in Tags on Hayaan Rizvi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://omega1510.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Language</title>
-      <link>/tags/language/</link>
+      <link>https://omega1510.github.io/tags/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/language/</guid>
+      <guid>https://omega1510.github.io/tags/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>/tags/programming/</link>
+      <link>https://omega1510.github.io/tags/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programming/</guid>
+      <guid>https://omega1510.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RISE Academy</title>
-      <link>/tags/rise-academy/</link>
+      <link>https://omega1510.github.io/tags/rise-academy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rise-academy/</guid>
+      <guid>https://omega1510.github.io/tags/rise-academy/</guid>
       <description></description>
     </item>
     

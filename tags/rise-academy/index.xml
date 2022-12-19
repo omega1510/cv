@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>RISE Academy on Hayaan Rizvi</title>
-    <link>/tags/rise-academy/</link>
+    <link>https://omega1510.github.io/tags/rise-academy/</link>
     <description>Recent content in RISE Academy on Hayaan Rizvi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/rise-academy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://omega1510.github.io/tags/rise-academy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RISE Academy Student Council</title>
-      <link>/experience/secretary/</link>
+      <link>https://omega1510.github.io/experience/secretary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/experience/secretary/</guid>
+      <guid>https://omega1510.github.io/experience/secretary/</guid>
       <description>Secretary</description>
     </item>
     
     <item>
       <title>RISE Academy Student Council</title>
-      <link>/experience/vicepresident/</link>
+      <link>https://omega1510.github.io/experience/vicepresident/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/experience/vicepresident/</guid>
+      <guid>https://omega1510.github.io/experience/vicepresident/</guid>
       <description>Vice-President</description>
     </item>
     
     <item>
       <title>Science Club</title>
-      <link>/experience/scienceclub/</link>
+      <link>https://omega1510.github.io/experience/scienceclub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/experience/scienceclub/</guid>
+      <guid>https://omega1510.github.io/experience/scienceclub/</guid>
       <description>Founder &amp;amp; President</description>
     </item>
     

@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programmings on Hayaan Rizvi</title>
-    <link>/programming/</link>
+    <link>https://omega1510.github.io/programming/</link>
     <description>Recent content in Programmings on Hayaan Rizvi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://omega1510.github.io/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python 3</title>
-      <link>/programming/python/</link>
+      <link>https://omega1510.github.io/programming/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/programming/python/</guid>
+      <guid>https://omega1510.github.io/programming/python/</guid>
       <description>Expert</description>
     </item>
     
     <item>
       <title>LaTeX</title>
-      <link>/programming/latex/</link>
+      <link>https://omega1510.github.io/programming/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/programming/latex/</guid>
+      <guid>https://omega1510.github.io/programming/latex/</guid>
       <description>Expert</description>
     </item>
     
     <item>
       <title>Rust</title>
-      <link>/programming/rust/</link>
+      <link>https://omega1510.github.io/programming/rust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/programming/rust/</guid>
+      <guid>https://omega1510.github.io/programming/rust/</guid>
       <description>Intermediate</description>
     </item>
     
     <item>
       <title>Bash</title>
-      <link>/programming/bash/</link>
+      <link>https://omega1510.github.io/programming/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/programming/bash/</guid>
+      <guid>https://omega1510.github.io/programming/bash/</guid>
       <description>Intermediate</description>
     </item>
     
